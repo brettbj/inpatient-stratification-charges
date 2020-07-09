@@ -1,0 +1,3 @@
+[submodule "poincare-embeddings"]
+	path = poincare-embeddings
+	url = https://github.com/facebookresearch/poincare-embeddings.git
