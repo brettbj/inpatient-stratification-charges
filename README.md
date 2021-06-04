@@ -2,9 +2,9 @@
 
 Example Code to accompany paper: Machine Learning for Patient Risk Stratification: Standing on, or looking over, the shoulders of clinicians?
 
-Link: @TODO. 
+Link: [https://www.nature.com/articles/s41746-021-00426-3](https://www.nature.com/articles/s41746-021-00426-3). 
 
-DOI: @TODO. 
+DOI: [10.1038/s41746-021-00426-3](https://doi.org/10.1038/s41746-021-00426-3). 
 
 Authors:
 Brett K. Beaulieu-Jones*, William Yuan*, Gabriel A. Brat, Andrew L. Beam, Griffin Weber, Marshall Ruffin, Isaac S. Kohane
